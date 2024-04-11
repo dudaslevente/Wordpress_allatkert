@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Askiw\n"
+"POT-Creation-Date: 2022-08-09 13:33+0300\n"
+"PO-Revision-Date: 2022-08-09 13:33+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: attachment.php:28 single.php:23
+msgid " Previous"
+msgstr ""
+
+#: attachment.php:31 single.php:26
+msgid "Next "
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:41
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:43
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:47
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:48
+msgid "Askiw Theme by Seos Themes"
+msgstr ""
+
+#: functions.php:45
+msgid "Primary"
+msgstr ""
+
+#: functions.php:77
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:96
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:105
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:258
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: include/animations/animations.php:25
+msgid "Default"
+msgstr ""
+
+#: include/animations/animations.php:26
+msgid "Deactivate Animation"
+msgstr ""
+
+#: include/animations/animations.php:27
+msgid "fade"
+msgstr ""
+
+#: include/animations/animations.php:28
+msgid "fade-up"
+msgstr ""
+
+#: include/animations/animations.php:29
+msgid "fade-down"
+msgstr ""
+
+#: include/animations/animations.php:30
+msgid "fade-left"
+msgstr ""
+
+#: include/animations/animations.php:31
+msgid "fade-right"
+msgstr ""
+
+#: include/animations/animations.php:32
+msgid "fade-up-right"
+msgstr ""
+
+#: include/animations/animations.php:33
+msgid "fade-up-left"
+msgstr ""
+
+#: include/animations/animations.php:34
+msgid "fade-down-right"
+msgstr ""
+
+#: include/animations/animations.php:35
+msgid "fade-down-left"
+msgstr ""
+
+#: include/animations/animations.php:36
+msgid "flip-up"
+msgstr ""
+
+#: include/animations/animations.php:37
+msgid "flip-down"
+msgstr ""
+
+#: include/animations/animations.php:38
+msgid "flip-left"
+msgstr ""
+
+#: include/animations/animations.php:39
+msgid "flip-right"
+msgstr ""
+
+#: include/animations/animations.php:40
+msgid "slide-up"
+msgstr ""
+
+#: include/animations/animations.php:41
+msgid "slide-down"
+msgstr ""
+
+#: include/animations/animations.php:42
+msgid "slide-left"
+msgstr ""
+
+#: include/animations/animations.php:43
+msgid "slide-right"
+msgstr ""
+
+#: include/animations/animations.php:44
+msgid "zoom-in"
+msgstr ""
+
+#: include/animations/animations.php:45
+msgid "zoom-in-up"
+msgstr ""
+
+#: include/animations/animations.php:46
+msgid "zoom-in-down"
+msgstr ""
+
+#: include/animations/animations.php:47
+msgid "zoom-in-left"
+msgstr ""
+
+#: include/animations/animations.php:48
+msgid "zoom-in-right"
+msgstr ""
+
+#: include/animations/animations.php:49
+msgid "zoom-out"
+msgstr ""
+
+#: include/animations/animations.php:50
+msgid "zoom-out-up"
+msgstr ""
+
+#: include/animations/animations.php:51
+msgid "zoom-out-down"
+msgstr ""
+
+#: include/animations/animations.php:52
+msgid "zoom-out-left"
+msgstr ""
+
+#: include/animations/animations.php:53
+msgid "zoom-out-right"
+msgstr ""
+
+#: include/animations/animations.php:67
+msgid "Animations"
+msgstr ""
+
+#: include/animations/animations.php:74 include/animations/animations.php:82
+msgid "Animation Articles"
+msgstr ""
+
+#: include/back-to-top-button.php:8
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top-button.php:16
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top-button.php:26
+msgid "Button Background Color"
+msgstr ""
+
+#: include/back-to-top-button.php:35
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/breadcrumbs.php:129
+msgid "Page"
+msgstr ""
+
+#: include/breadcrumbs.php:145
+msgid "Breadcrumb"
+msgstr ""
+
+#: include/breadcrumbs.php:154
+msgid "Activate Breadcrumb"
+msgstr ""
+
+#: include/breadcrumbs.php:166
+msgid "Activate Home Page Breadcrumb"
+msgstr ""
+
+#: include/color-scheme.php:10 include/color-scheme.php:18
+msgid "Color Scheme"
+msgstr ""
+
+#: include/color-scheme.php:28
+msgid "Hover Color"
+msgstr ""
+
+#: include/content-customizer.php:7
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:19
+msgid "Content max width"
+msgstr ""
+
+#: include/content-customizer.php:34
+msgid "Content Padding"
+msgstr ""
+
+#: include/content-customizer.php:46
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/content-customizer.php:58
+msgid "Show featured images on all single pages."
+msgstr ""
+
+#: include/customizer.php:28
+msgid "Background Color "
+msgstr ""
+
+#: include/customizer.php:43
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:44 include/customizer.php:116
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:54 include/customizer.php:85
+msgid "All Pages"
+msgstr ""
+
+#: include/customizer.php:55 include/customizer.php:86
+msgid "Home Page"
+msgstr ""
+
+#: include/customizer.php:70
+msgid "Body Background Color"
+msgstr ""
+
+#: include/customizer.php:79
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:97
+msgid "Image Height"
+msgstr ""
+
+#: include/customizer.php:109
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:115
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:125
+msgid "Dectivate Image Shadow:"
+msgstr ""
+
+#: include/customizer.php:138
+msgid "Deactivate WooCommerce Cart:"
+msgstr ""
+
+#: include/header-buttons.php:5
+msgid "Header Buttons"
+msgstr ""
+
+#: include/header-buttons.php:15
+msgid "Button 1 Text"
+msgstr ""
+
+#: include/header-buttons.php:26
+msgid "Button 1 URL"
+msgstr ""
+
+#: include/header-buttons.php:36
+msgid "Button 2 Text"
+msgstr ""
+
+#: include/header-buttons.php:47
+msgid "Button 2 URL"
+msgstr ""
+
+#: include/header-top.php:31
+msgid "Menu"
+msgstr ""
+
+#: include/header-top.php:45 include/header-top.php:48
+msgid "header image"
+msgstr ""
+
+#: include/menu-options.php:6 include/menu-options.php:78
+msgid "Left"
+msgstr ""
+
+#: include/menu-options.php:7 include/menu-options.php:79
+msgid "Right"
+msgstr ""
+
+#: include/menu-options.php:8 include/menu-options.php:80
+msgid "Center"
+msgstr ""
+
+#: include/menu-options.php:18
+msgid "Menu Options"
+msgstr ""
+
+#: include/menu-options.php:28
+msgid "Hide Menu"
+msgstr ""
+
+#: include/menu-options.php:42
+msgid "Menu Padding"
+msgstr ""
+
+#: include/menu-options.php:58
+msgid "Menu Font Size"
+msgstr ""
+
+#: include/menu-options.php:72
+msgid "Menu Position"
+msgstr ""
+
+#: include/menu-options.php:89
+msgid "Menu Color"
+msgstr ""
+
+#: include/menu-options.php:99
+msgid "Menu Hover Color"
+msgstr ""
+
+#: include/menu-options.php:109
+msgid "Sub Menu Color"
+msgstr ""
+
+#: include/menu-options.php:119
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: include/menu-options.php:128
+msgid "Menu Background Color"
+msgstr ""
+
+#: include/menu-options.php:137
+msgid "Sub Menu Border Top Color"
+msgstr ""
+
+#: include/menu-options.php:146
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: include/menu-options.php:155
+msgid "Sub Menu Background Hover Color"
+msgstr ""
+
+#: include/post-options.php:4
+msgid "Post Options"
+msgstr ""
+
+#: include/post-options.php:11
+msgid "Hide Author"
+msgstr ""
+
+#: include/post-options.php:22
+msgid "Hide Calendar"
+msgstr ""
+
+#: include/post-options.php:33
+msgid "Hide Comments Link"
+msgstr ""
+
+#: include/post-options.php:44
+msgid "Hide Posted in Category"
+msgstr ""
+
+#: include/post-options.php:55
+msgid "Hide Tags"
+msgstr ""
+
+#: include/read-more-button.php:20
+msgid "Read More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:49
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:55
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:83 template-parts/content-page.php:45
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:33 template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:56
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Askiw"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/askiw-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Askiw is a WordPress theme for professionals. Askiw is a modern Multipurpose "
+"and HTML5 WordPress theme for creating beautiful, accessible and fast "
+"loading websites. Gutenberg Compatible, WooCommerce Compatible, Full "
+"Responsive, Content Options, Header Options, Back To Top Button, Microdata, "
+"Header Image Zoom, Animations and Custom Colors. Askiw Theme is very fast "
+"and SEO friendly Fast Theme can be used by bloggers, magazine, portfolio, "
+"photography, newspaper, startups, agencies, E-Commerce, news, wedding and "
+"many more. The theme is for any business."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""
